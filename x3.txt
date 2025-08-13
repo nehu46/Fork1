@@ -1,0 +1,3 @@
+git checkout -b  branch__name
+git checkout branchname
+
